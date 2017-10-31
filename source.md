@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+# 计算概论B（化学）
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 卢信源 (1700011814@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/ChenaniahLu
 
 ---
 
@@ -15,14 +15,17 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 课程介绍
+#### &nbsp; &nbsp; 1.2 数据及其表示
+#### &nbsp; &nbsp; 1.3 计算机硬件
 
 ### 2. 第二部分
+#### &nbsp; &nbsp; 1.4 操作系统
+#### &nbsp; &nbsp; 1.5 网络
 
 ### 3. 第三部分
-
+#### &nbsp; &nbsp; 1. The way of the program
+#### &nbsp; &nbsp; 2. Variables, Expressions and Statements
 ---
 
 ## 第一部分
@@ -37,7 +40,7 @@ int main()
 
 ---
 
-## 插图
+## 插图（世界上第一位程序猿）
 
 ** Ada Lovelace **
 
